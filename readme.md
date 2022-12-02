@@ -7,5 +7,4 @@ for the second
 for the three
 
 for the branch test1 first commit
-
-for the branch master four commit
+for the branch test1 second commit
